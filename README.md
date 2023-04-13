@@ -32,3 +32,7 @@
 7. 第九章：聚类
 	1. K均值算法
 	2. 自动确定聚类数的改进K均值算法
+
+## 参考资料
+
+[统计计算与机器学习](https://ins.sjtu.edu.cn/people/xuzhiqin/2020opti/2020machinelearning/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AD%A6%E7%94%9F%E6%95%B4%E7%90%86%E7%9A%84%E8%AE%B2%E4%B9%89/)
