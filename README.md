@@ -36,3 +36,8 @@
 ## 参考资料
 
 [统计计算与机器学习](https://ins.sjtu.edu.cn/people/xuzhiqin/2020opti/2020machinelearning/%E7%BB%9F%E8%AE%A1%E8%AE%A1%E7%AE%97%E4%B8%8E%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%AD%A6%E7%94%9F%E6%95%B4%E7%90%86%E7%9A%84%E8%AE%B2%E4%B9%89/)
+https://www.bilibili.com/video/BV1i7411K7YV/?p=3&spm_id_from=pageDriver&vd_source=64751e912901df8343990768a5b86899
+[浙江大学-机器学习](https://www.bilibili.com/video/BV1qf4y1x7kB/?spm_id_from=autoNext&vd_source=64751e912901df8343990768a5b86899)
+[Stochastic Gradient Methods For Large-Scale Machine Learning](http://users.iems.northwestern.edu/~nocedal/ICML)
+
+
